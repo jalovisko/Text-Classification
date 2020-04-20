@@ -20,6 +20,7 @@ Below are the files that cover the whole project. The other files are suppliment
 * Correctness (37 out of 40): The understanding of the models is good.
 * Writing (23 out of 25): In general, the writing is good. The abstract and introduction are not what they should be. You don't show enough figures that support your claims and on which you can build to go into more details.
 * Originality (10 out of 15): Limited additional experiments in terms of extra models or ways to perform preprocessing.
+
 Total: 90%
 
 ## Note
